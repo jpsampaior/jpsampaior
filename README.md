@@ -8,8 +8,7 @@ Atualmente estou cursando o 3o semestre de Ciência da Computação na UNIFOR, a
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsampaior&layout=compact">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 Qualquer dúvida sintam-se a vontade para me contatar por algum desses canais:
