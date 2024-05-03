@@ -1,6 +1,6 @@
 ## Oiii eu sou o João Pedro, estudante de Ciência da Computação!
 
-Atualmente em 2023.2 estou cursando o 4o semestre de Ciência da Computação na UNIFOR, aqui no meu GitHub você encontrará alguns dos projetos que desenvolvi na faculdade, além de projetos pessoais. Segue abaixo as tecnologias utilizadas nos projetos:
+Atualmente em 2024.1 estou cursando o 5o semestre de Ciência da Computação na UNIFOR, aqui no meu GitHub você encontrará alguns dos projetos que desenvolvi na faculdade, além de projetos pessoais. Segue abaixo as tecnologias utilizadas nos projetos:
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
