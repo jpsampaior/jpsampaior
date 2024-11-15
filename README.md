@@ -7,7 +7,7 @@ Sou apaixonado por **front-end development**, utilizando tecnologias modernas co
 
 ## Tecnologias que utilizo:
 <div style="display: inline_block">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://iconape.com/wp-content/files/gm/82643/svg/nextjs-icon.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://iconape.com/wp-content/files/gm/82643/svg/nextjs-icon.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
