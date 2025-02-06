@@ -1,7 +1,7 @@
 
 # Olá, eu sou o João Pedro, estudante de Ciência da Computação! 🚀
 
-Atualmente, estou no 5º semestre de **Ciência da Computação** na **UNIFOR** (2024.1) e concluindo um **intercâmbio acadêmico no Canadá**. Durante esse período, foquei em **inteligência artificial** e **design de interfaces**, áreas que têm impulsionado meu desenvolvimento como profissional.
+Atualmente, estou no 6º semestre de **Ciência da Computação** na **UNIFOR** (2025.1), tendo recentemente concluído um **intercâmbio acadêmico no Canadá** na Universidade de Concórdia. Durante esse período, foquei em **inteligência artificial** e **design de interfaces**, áreas que têm impulsionado meu desenvolvimento como profissional.
 
 Sou apaixonado por **front-end development**, utilizando tecnologias modernas como **React**, **Next.js** e **TypeScript**. Aqui no meu GitHub, você encontrará projetos acadêmicos e pessoais, explorando tanto o básico quanto conceitos mais avançados em tecnologia.
 
